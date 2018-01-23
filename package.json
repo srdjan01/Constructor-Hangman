@@ -1,0 +1,22 @@
+{
+  "name": "constructor-hangman",
+  "version": "1.0.0",
+  "description": "app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srdjan01/Constructor-Hangman.git"
+  },
+  "author": "Srdjan Markovich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/srdjan01/Constructor-Hangman/issues"
+  },
+  "homepage": "https://github.com/srdjan01/Constructor-Hangman#readme",
+  "dependencies": {
+    "inquirer": "^5.0.1"
+  }
+}
